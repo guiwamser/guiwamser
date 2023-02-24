@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**guiwamser/guiwamser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🚀 - Habilidades
 Linguagens de programação: Python, JavaScript, HTML/CSS
