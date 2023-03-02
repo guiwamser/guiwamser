@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.  <img align="right" width="110" src="https://komarev.com/ghpvc/?username=guiwamser&style=flat-square&color=blueviolet"/>
 
-I'm a fullstack developer from Brazil, enjoy being part of the open-source community :smile:
+I'm a fullstack developer from Brazil, enjoy being part of the open-source community 
 
 + 🌍  I'm based in Santa Catarina, Brazil
 + :mailbox: How to reach me guiwamser@gmail.com
