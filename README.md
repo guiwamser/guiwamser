@@ -5,7 +5,6 @@ I'm a fullstack developer from Brazil, enjoy being part of the open-source commu
 + 🌍  I'm based in Santa Catarina, Brazil
 + :mailbox: How to reach me guiwamser@gmail.com
 + 🌱 I’m currently learning anything interesting
-+ ⚡ I love sports and my favorite is Basketball
 
 ###  Languages and Tools:
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
