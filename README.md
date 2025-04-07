@@ -15,7 +15,5 @@ I'm a fullstack developer from Brazil, enjoy being part of the open-source commu
 
 
 ### Socials
-<p><a href="https://www.linkedin.com/in/guilhermewamser/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discord.com/users/536367568500293634" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  /></a> </p> 
+<p><a href="https://www.linkedin.com/in/guilhermewamser/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/536367568500293634" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  /></a> </p> 
